@@ -1,7 +1,7 @@
 # Face Recognition Attendance system
 
 	Authors:
-		Sandeep Varma Dendukuri
+		Vankdothu Shiva Sai Pamar
 		Harshavardhan Dwarapudi
 		Vinay Kumar Cheerla
 		Saivardhan Annam
